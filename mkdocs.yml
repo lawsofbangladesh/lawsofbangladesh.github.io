@@ -58,6 +58,6 @@ extra:
 
 plugins:
   - search
-  - social:
+  - material/social:
       cards_layout_options:
         font_family: "Tiro Bangla"
