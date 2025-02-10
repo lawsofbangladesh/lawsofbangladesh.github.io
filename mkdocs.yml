@@ -43,13 +43,6 @@ theme:
 
 
 extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: বাংলা
-      link: /bn/
-      lang: bn
   generator: false
   social:
     - icon: fontawesome/brands/square-github 
