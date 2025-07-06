@@ -1,6 +1,6 @@
 # Bangladesh Laws Documentation 🇧🇩
 
-[![Website](https://img.shields.io/website?url=https%3A//bangladeshlaw.github.io)](https://bangladeshlaw.github.io)
+[![Website](https://img.shields.io/website?url=https%3A//lawsofbangladesh.github.io)](https://lawsofbangladesh.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MkDocs](https://img.shields.io/badge/Built%20with-MkDocs-blue)](https://www.mkdocs.org/)
 
@@ -12,7 +12,7 @@ This project aims to make Bangladesh's legal framework more accessible to citize
 
 ## 🌐 Live Website
 
-Visit the live documentation at: **[bangladeshlaw.github.io](https://bangladeshlaw.github.io)**
+Visit the live documentation at: **[lawsofbangladesh.github.io](https://lawsofbangladesh.github.io)**
 
 ## 📚 Content
 
@@ -62,7 +62,6 @@ lawsofbangladesh.github.io/
 │       │   └── act-details-*.md
 │       ├── volume-2/           # Volume 2 acts
 │       └── ...                 # Other volumes
-├── scripts/                    # Automation scripts
 ├── mkdocs.yml                  # Site configuration
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This file
@@ -108,7 +107,7 @@ This creates a `site/` directory with static files ready for deployment.
 
 ### Browsing Laws
 
-1. Visit the [live website](https://bangladeshlaw.github.io)
+1. Visit the [live website](https://lawsofbangladesh.github.io)
 2. Use the navigation menu to browse by volume
 3. Use the search bar to find specific acts or keywords
 4. Click on any act title to view its full content
@@ -208,7 +207,6 @@ The legal texts themselves are **public domain** government documents. Our licen
 
 ### Automated Updates
 
-- Scripts in `/scripts/` directory help automate content updates
 - Regular synchronization with government website
 - Automated formatting and validation
 

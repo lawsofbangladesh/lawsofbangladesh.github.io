@@ -12,7 +12,6 @@ Thank you for your interest in contributing to this project! This guide will hel
 
 ### 2. Technical Contributions
 - **Website improvements**: Enhance the MkDocs site functionality
-- **Script development**: Create automation tools for content management
 - **Documentation**: Improve project documentation
 - **Bug fixes**: Resolve technical issues
 

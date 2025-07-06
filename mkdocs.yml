@@ -1,5 +1,5 @@
 site_name: Bangladesh Law
-site_url: https://bangladeshlaw.github.io
+site_url: https://lawsofbangladesh.github.io
 theme:
   name: material
   palette:
@@ -21,10 +21,10 @@ theme:
       name: Switch to system preference
   
   font:
-    text: Tiro Bangla
-    code: Tiro Bangla
+    text: Hind Siliguri
+    code: Hind Siliguri
 
-  language: bn
+  language: en
   logo: assets/flag.svg
   favicon: assets/flag.svg
   features:
@@ -53,4 +53,4 @@ plugins:
   - search
   - material/social:
       cards_layout_options:
-        font_family: "Tiro Bangla"
+        font_family: "Hind Siliguri"
